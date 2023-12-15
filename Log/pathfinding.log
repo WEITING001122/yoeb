@@ -1,0 +1,260 @@
+2023-12-15 18:15:10 [pathfinding] -> Total runtime: 5 minutes
+2023-12-15 18:15:10 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:10 [pathfinding] -> Computing A* path from P(236, 1750)->Pos(240, 1763)
+2023-12-15 18:15:10 [pathfinding] -> A* from P(236, 1750)->Pos(240, 1763) took: 0 ms, cost: 14.639999
+2023-12-15 18:15:11 [pathfinding] -> Computing A* path from P(236, 1743)->Pos(240, 1763)
+2023-12-15 18:15:11 [pathfinding] -> A* from P(236, 1743)->Pos(240, 1763) took: 0 ms, cost: 21.639999
+2023-12-15 18:15:11 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:11 [pathfinding] -> Computing A* path from P(236, 1736)->Pos(240, 1763)
+2023-12-15 18:15:11 [pathfinding] -> A* from P(236, 1736)->Pos(240, 1763) took: 0 ms, cost: 28.639999
+2023-12-15 18:15:11 [pathfinding] -> Computing A* path from P(236, 1732)->Pos(240, 1763)
+2023-12-15 18:15:11 [pathfinding] -> A* from P(236, 1732)->Pos(240, 1763) took: 0 ms, cost: 32.639999
+2023-12-15 18:15:11 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:11 [pathfinding] -> Computing A* path from P(235, 1730)->Pos(240, 1763)
+2023-12-15 18:15:11 [pathfinding] -> A* from P(235, 1730)->Pos(240, 1763) took: 0 ms, cost: 35.049999
+2023-12-15 18:15:11 [pathfinding] -> Computing A* path from P(235, 1730)->Pos(240, 1763)
+2023-12-15 18:15:11 [pathfinding] -> A* from P(235, 1730)->Pos(240, 1763) took: 0 ms, cost: 35.049999
+2023-12-15 18:15:11 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:11 [pathfinding] -> Minor stuck detected, RPC: 2
+2023-12-15 18:15:11 [pathfinding] -> Path index history:
+2023-12-15 18:15:11 [pathfinding] -> Unstuck Stage 1
+2023-12-15 18:15:11 [pathfinding] -> Current index in path:0, next corner index in path:5, path size: 34
+2023-12-15 18:15:11 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:11 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:11 [pathfinding] -> World X: 5222.930176 World Y: 18864.146484 World Z: -489.079224
+2023-12-15 18:15:11 [pathfinding] -> Computing A* path from P(235, 1730)->Pos(240, 1763)
+2023-12-15 18:15:11 [pathfinding] -> A* from P(235, 1730)->Pos(240, 1763) took: 0 ms, cost: 35.049999
+2023-12-15 18:15:11 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:11 [pathfinding] -> Current index in path:0, next corner index in path:5, path size: 34
+2023-12-15 18:15:11 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:11 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:11 [pathfinding] -> World X: 5222.930176 World Y: 18864.146484 World Z: -490.385376
+2023-12-15 18:15:11 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:11 [pathfinding] -> Computing A* path from P(235, 1730)->Pos(240, 1763)
+2023-12-15 18:15:11 [pathfinding] -> A* from P(235, 1730)->Pos(240, 1763) took: 0 ms, cost: 35.049999
+2023-12-15 18:15:11 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:11 [pathfinding] -> Current index in path:0, next corner index in path:5, path size: 34
+2023-12-15 18:15:11 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:11 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:11 [pathfinding] -> World X: 5222.930176 World Y: 18864.146484 World Z: -490.487762
+2023-12-15 18:15:11 [pathfinding] -> Computing A* path from P(235, 1730)->Pos(240, 1763)
+2023-12-15 18:15:11 [pathfinding] -> A* from P(235, 1730)->Pos(240, 1763) took: 0 ms, cost: 35.049999
+2023-12-15 18:15:11 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:11 [pathfinding] -> Current index in path:0, next corner index in path:5, path size: 34
+2023-12-15 18:15:11 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:11 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:11 [pathfinding] -> World X: 5222.930176 World Y: 18864.146484 World Z: -490.495972
+2023-12-15 18:15:11 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:11 [pathfinding] -> Computing A* path from P(235, 1730)->Pos(240, 1763)
+2023-12-15 18:15:11 [pathfinding] -> A* from P(235, 1730)->Pos(240, 1763) took: 0 ms, cost: 35.049999
+2023-12-15 18:15:11 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:11 [pathfinding] -> Current index in path:0, next corner index in path:5, path size: 34
+2023-12-15 18:15:11 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:11 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:11 [pathfinding] -> World X: 5222.930176 World Y: 18864.146484 World Z: -490.496948
+2023-12-15 18:15:12 [pathfinding] -> Computing A* path from P(235, 1730)->Pos(240, 1763)
+2023-12-15 18:15:12 [pathfinding] -> A* from P(235, 1730)->Pos(240, 1763) took: 0 ms, cost: 35.049999
+2023-12-15 18:15:12 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:12 [pathfinding] -> Current index in path:0, next corner index in path:5, path size: 34
+2023-12-15 18:15:12 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:12 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:12 [pathfinding] -> World X: 5222.930176 World Y: 18864.146484 World Z: -490.497009
+2023-12-15 18:15:12 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:12 [pathfinding] -> Computing A* path from P(235, 1730)->Pos(240, 1763)
+2023-12-15 18:15:12 [pathfinding] -> A* from P(235, 1730)->Pos(240, 1763) took: 0 ms, cost: 35.049999
+2023-12-15 18:15:12 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:12 [pathfinding] -> Current index in path:0, next corner index in path:5, path size: 34
+2023-12-15 18:15:12 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:12 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:12 [pathfinding] -> World X: 5222.930176 World Y: 18864.146484 World Z: -490.497009
+2023-12-15 18:15:12 [pathfinding] -> Computing A* path from P(235, 1730)->Pos(240, 1763)
+2023-12-15 18:15:12 [pathfinding] -> A* from P(235, 1730)->Pos(240, 1763) took: 0 ms, cost: 35.049999
+2023-12-15 18:15:12 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:12 [pathfinding] -> Current index in path:0, next corner index in path:5, path size: 34
+2023-12-15 18:15:12 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:12 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:12 [pathfinding] -> World X: 5222.930176 World Y: 18864.146484 World Z: -490.497009
+2023-12-15 18:15:12 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:12 [pathfinding] -> Computing A* path from P(235, 1730)->Pos(240, 1763)
+2023-12-15 18:15:12 [pathfinding] -> A* from P(235, 1730)->Pos(240, 1763) took: 0 ms, cost: 35.049999
+2023-12-15 18:15:12 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:12 [pathfinding] -> Current index in path:0, next corner index in path:5, path size: 34
+2023-12-15 18:15:12 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:12 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:12 [pathfinding] -> World X: 5222.930176 World Y: 18864.146484 World Z: -490.497009
+2023-12-15 18:15:12 [pathfinding] -> Computing A* path from P(235, 1730)->Pos(240, 1763)
+2023-12-15 18:15:12 [pathfinding] -> A* from P(235, 1730)->Pos(240, 1763) took: 0 ms, cost: 35.049999
+2023-12-15 18:15:12 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:12 [pathfinding] -> Current index in path:0, next corner index in path:5, path size: 34
+2023-12-15 18:15:12 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:12 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:12 [pathfinding] -> World X: 5222.930176 World Y: 18864.146484 World Z: -490.497009
+2023-12-15 18:15:12 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:12 [pathfinding] -> Computing A* path from P(235, 1730)->Pos(240, 1763)
+2023-12-15 18:15:12 [pathfinding] -> A* from P(235, 1730)->Pos(240, 1763) took: 0 ms, cost: 35.049999
+2023-12-15 18:15:12 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:12 [pathfinding] -> Current index in path:0, next corner index in path:5, path size: 34
+2023-12-15 18:15:12 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:12 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:12 [pathfinding] -> World X: 5222.930176 World Y: 18864.146484 World Z: -490.497009
+2023-12-15 18:15:12 [pathfinding] -> Computing A* path from P(235, 1730)->Pos(240, 1763)
+2023-12-15 18:15:12 [pathfinding] -> A* from P(235, 1730)->Pos(240, 1763) took: 0 ms, cost: 35.049999
+2023-12-15 18:15:12 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:12 [pathfinding] -> Current index in path:0, next corner index in path:5, path size: 34
+2023-12-15 18:15:12 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:12 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:12 [pathfinding] -> World X: 5222.930176 World Y: 18864.146484 World Z: -490.497009
+2023-12-15 18:15:12 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:12 [pathfinding] -> Computing A* path from P(235, 1730)->Pos(240, 1763)
+2023-12-15 18:15:12 [pathfinding] -> A* from P(235, 1730)->Pos(240, 1763) took: 0 ms, cost: 35.049999
+2023-12-15 18:15:12 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:12 [pathfinding] -> Current index in path:0, next corner index in path:5, path size: 34
+2023-12-15 18:15:12 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:12 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:12 [pathfinding] -> World X: 5222.930176 World Y: 18864.146484 World Z: -490.497009
+2023-12-15 18:15:12 [pathfinding] -> Computing A* path from P(235, 1730)->Pos(240, 1763)
+2023-12-15 18:15:12 [pathfinding] -> A* from P(235, 1730)->Pos(240, 1763) took: 0 ms, cost: 35.049999
+2023-12-15 18:15:12 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:12 [pathfinding] -> Current index in path:0, next corner index in path:5, path size: 34
+2023-12-15 18:15:12 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:12 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:12 [pathfinding] -> World X: 5222.930176 World Y: 18864.146484 World Z: -490.497009
+2023-12-15 18:15:13 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:13 [pathfinding] -> Computing A* path from P(235, 1730)->Pos(240, 1763)
+2023-12-15 18:15:13 [pathfinding] -> A* from P(235, 1730)->Pos(240, 1763) took: 0 ms, cost: 35.049999
+2023-12-15 18:15:13 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:13 [pathfinding] -> Current index in path:0, next corner index in path:5, path size: 34
+2023-12-15 18:15:13 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:13 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:13 [pathfinding] -> World X: 5222.930176 World Y: 18864.146484 World Z: -490.497009
+2023-12-15 18:15:13 [pathfinding] -> Computing A* path from P(235, 1730)->Pos(240, 1763)
+2023-12-15 18:15:13 [pathfinding] -> A* from P(235, 1730)->Pos(240, 1763) took: 0 ms, cost: 35.049999
+2023-12-15 18:15:13 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:13 [pathfinding] -> Current index in path:0, next corner index in path:33, path size: 34
+2023-12-15 18:15:13 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:13 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:13 [pathfinding] -> World X: 5222.930176 World Y: 19168.583984 World Z: -490.497009
+2023-12-15 18:15:13 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:13 [pathfinding] -> Computing A* path from P(222, 1722)->Pos(232, 1725)
+2023-12-15 18:15:13 [pathfinding] -> A* from P(222, 1722)->Pos(232, 1725) took: 0 ms, cost: 11.230000
+2023-12-15 18:15:13 [pathfinding] -> Set explored nodes took: 16 ms
+2023-12-15 18:15:13 [pathfinding] -> Computing A* path from P(222, 1722)->Pos(232, 1725)
+2023-12-15 18:15:13 [pathfinding] -> A* from P(222, 1722)->Pos(232, 1725) took: 0 ms, cost: 11.230000
+2023-12-15 18:15:13 [pathfinding] -> Computing A* path from P(225, 1722)->Pos(232, 1725)
+2023-12-15 18:15:13 [pathfinding] -> A* from P(225, 1722)->Pos(232, 1725) took: 0 ms, cost: 8.230000
+2023-12-15 18:15:13 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:13 [pathfinding] -> Computing A* path from P(229, 1722)->Pos(232, 1725)
+2023-12-15 18:15:13 [pathfinding] -> A* from P(229, 1722)->Pos(232, 1725) took: 0 ms, cost: 4.230000
+2023-12-15 18:15:14 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:14 [pathfinding] -> Computing A* path from P(229, 1722)->Pos(232, 1725)
+2023-12-15 18:15:14 [pathfinding] -> A* from P(229, 1722)->Pos(232, 1725) took: 0 ms, cost: 4.230000
+2023-12-15 18:15:14 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:14 [pathfinding] -> Computing A* path from P(229, 1722)->Pos(232, 1725)
+2023-12-15 18:15:14 [pathfinding] -> A* from P(229, 1722)->Pos(232, 1725) took: 0 ms, cost: 4.230000
+2023-12-15 18:15:14 [pathfinding] -> Computing A* path from P(229, 1722)->Pos(232, 1725)
+2023-12-15 18:15:14 [pathfinding] -> A* from P(229, 1722)->Pos(232, 1725) took: 0 ms, cost: 4.230000
+2023-12-15 18:15:14 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:14 [pathfinding] -> Computing A* path from P(211, 1728)->Pos(240, 1763)
+2023-12-15 18:15:14 [pathfinding] -> A* from P(211, 1728)->Pos(240, 1763) took: 0 ms, cost: 66.430000
+2023-12-15 18:15:14 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:14 [pathfinding] -> Current index in path:0, next corner index in path:33, path size: 34
+2023-12-15 18:15:14 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:14 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:14 [pathfinding] -> World X: 5223.558105 World Y: 19168.587891 World Z: -427.997040
+2023-12-15 18:15:14 [pathfinding] -> Computing A* path from P(212, 1732)->Pos(240, 1763)
+2023-12-15 18:15:14 [pathfinding] -> A* from P(212, 1732)->Pos(240, 1763) took: 0 ms, cost: 65.430000
+2023-12-15 18:15:14 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:14 [pathfinding] -> Current index in path:0, next corner index in path:33, path size: 34
+2023-12-15 18:15:14 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:14 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:14 [pathfinding] -> World X: 5235.849121 World Y: 19168.574219 World Z: -432.741394
+2023-12-15 18:15:14 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:14 [pathfinding] -> Computing A* path from P(216, 1732)->Pos(240, 1763)
+2023-12-15 18:15:14 [pathfinding] -> A* from P(216, 1732)->Pos(240, 1763) took: 0 ms, cost: 59.790001
+2023-12-15 18:15:14 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:14 [pathfinding] -> Current index in path:0, next corner index in path:33, path size: 34
+2023-12-15 18:15:14 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:14 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:14 [pathfinding] -> World X: 5195.661133 World Y: 19163.013672 World Z: -429.034637
+2023-12-15 18:15:14 [pathfinding] -> Computing A* path from P(219, 1731)->Pos(240, 1763)
+2023-12-15 18:15:14 [pathfinding] -> A* from P(219, 1731)->Pos(240, 1763) took: 0 ms, cost: 55.559998
+2023-12-15 18:15:14 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:14 [pathfinding] -> Current index in path:0, next corner index in path:33, path size: 34
+2023-12-15 18:15:14 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:14 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:14 [pathfinding] -> World X: 5203.198242 World Y: 19167.628906 World Z: -423.760712
+2023-12-15 18:15:15 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:15 [pathfinding] -> Computing A* path from P(223, 1730)->Pos(240, 1763)
+2023-12-15 18:15:15 [pathfinding] -> A* from P(223, 1730)->Pos(240, 1763) took: 0 ms, cost: 49.509998
+2023-12-15 18:15:15 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:15 [pathfinding] -> Current index in path:0, next corner index in path:33, path size: 34
+2023-12-15 18:15:15 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:15 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:15 [pathfinding] -> World X: 5213.262207 World Y: 19171.044922 World Z: -428.314392
+2023-12-15 18:15:15 [pathfinding] -> Computing A* path from P(226, 1730)->Pos(240, 1763)
+2023-12-15 18:15:15 [pathfinding] -> A* from P(226, 1730)->Pos(240, 1763) took: 0 ms, cost: 45.689999
+2023-12-15 18:15:15 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:15 [pathfinding] -> Current index in path:0, next corner index in path:33, path size: 34
+2023-12-15 18:15:15 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:15 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:15 [pathfinding] -> World X: 5211.253418 World Y: 19164.376953 World Z: -441.805603
+2023-12-15 18:15:15 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:15 [pathfinding] -> Computing A* path from P(231, 1729)->Pos(240, 1763)
+2023-12-15 18:15:15 [pathfinding] -> A* from P(231, 1729)->Pos(240, 1763) took: 0 ms, cost: 39.459999
+2023-12-15 18:15:15 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:15 [pathfinding] -> Current index in path:0, next corner index in path:33, path size: 34
+2023-12-15 18:15:15 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:15 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:15 [pathfinding] -> World X: 5206.666016 World Y: 19172.099609 World Z: -490.733887
+2023-12-15 18:15:15 [pathfinding] -> Computing A* path from P(234, 1730)->Pos(240, 1763)
+2023-12-15 18:15:15 [pathfinding] -> A* from P(234, 1730)->Pos(240, 1763) took: 0 ms, cost: 36.049999
+2023-12-15 18:15:15 [pathfinding] -> MoveToEntity call, priority: 28, pathsize: 34
+2023-12-15 18:15:15 [pathfinding] -> Current index in path:0, next corner index in path:33, path size: 34
+2023-12-15 18:15:15 [pathfinding] -> Calculated corners in path: #1: 0 #2: 5 #3: 33
+2023-12-15 18:15:15 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:15 [pathfinding] -> World X: 5220.533203 World Y: 19166.806641 World Z: -500.752502
+2023-12-15 18:15:15 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:15 [pathfinding] -> Computing A* path from P(236, 1734)->Pos(240, 1763)
+2023-12-15 18:15:15 [pathfinding] -> A* from P(236, 1734)->Pos(240, 1763) took: 0 ms, cost: 30.639999
+2023-12-15 18:15:15 [pathfinding] -> Computing A* path from P(236, 1734)->Pos(246, 1807)
+2023-12-15 18:15:15 [pathfinding] -> A* from P(236, 1734)->Pos(246, 1807) took: 0 ms, cost: 77.099998
+2023-12-15 18:15:15 [pathfinding] -> MoveToEntity call, priority: 32, pathsize: 74
+2023-12-15 18:15:15 [pathfinding] -> Minor stuck detected, RPC: 7
+2023-12-15 18:15:15 [pathfinding] -> Path index history:
+2023-12-15 18:15:15 [pathfinding] -> Unstuck Stage 1
+2023-12-15 18:15:15 [pathfinding] -> Current index in path:0, next corner index in path:10, path size: 74
+2023-12-15 18:15:15 [pathfinding] -> Calculated corners in path: #1: 0 #2: 10 #3: 73
+2023-12-15 18:15:15 [pathfinding] -> Raycast took 0 ms, wall found.
+2023-12-15 18:15:15 [pathfinding] -> World X: 5358.947754 World Y: 18963.128906 World Z: -474.472015
+2023-12-15 18:15:15 [pathfinding] -> Computing A* path from P(238, 1740)->Pos(240, 1763)
+2023-12-15 18:15:15 [pathfinding] -> A* from P(238, 1740)->Pos(240, 1763) took: 0 ms, cost: 23.820000
+2023-12-15 18:15:15 [pathfinding] -> Computing A* path from P(238, 1740)->Pos(246, 1804)
+2023-12-15 18:15:15 [pathfinding] -> A* from P(238, 1740)->Pos(246, 1804) took: 0 ms, cost: 67.279999
+2023-12-15 18:15:15 [pathfinding] -> MoveToEntity call, priority: 32, pathsize: 65
+2023-12-15 18:15:15 [pathfinding] -> Current index in path:0, next corner index in path:8, path size: 65
+2023-12-15 18:15:15 [pathfinding] -> Calculated corners in path: #1: 0 #2: 8 #3: 64
+2023-12-15 18:15:15 [pathfinding] -> Raycast took 0 ms, no wall !!
+2023-12-15 18:15:15 [pathfinding] -> World X: 5357.014160 World Y: 19005.658203 World Z: -468.315582
+2023-12-15 18:15:15 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:15 [pathfinding] -> Computing A* path from P(240, 1755)->Pos(240, 1763)
+2023-12-15 18:15:15 [pathfinding] -> A* from P(240, 1755)->Pos(240, 1763) took: 0 ms, cost: 8.000000
+2023-12-15 18:15:16 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:16 [pathfinding] -> Computing A* path from P(242, 1765)->Pos(240, 1763)
+2023-12-15 18:15:16 [pathfinding] -> A* from P(242, 1765)->Pos(240, 1763) took: 0 ms, cost: 2.820000
+2023-12-15 18:15:16 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:16 [pathfinding] -> Computing A* path from P(242, 1765)->Pos(240, 1763)
+2023-12-15 18:15:16 [pathfinding] -> A* from P(242, 1765)->Pos(240, 1763) took: 0 ms, cost: 2.820000
+2023-12-15 18:15:16 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:18 [pathfinding] -> IsPositionReachable Computing A* path from P(242, 1765)->Pos(242, 1765)
+2023-12-15 18:15:18 [pathfinding] -> IsPositionReachable A* from P(242, 1765)->Pos(242, 1765) took: 0 ms, cost: 0.000000
+2023-12-15 18:15:18 [pathfinding] -> Computing A* path from P(242, 1765)->Pos(242, 1765)
+2023-12-15 18:15:18 [pathfinding] -> A* from P(242, 1765)->Pos(242, 1765) took: 0 ms, cost: 0.000000
+2023-12-15 18:15:18 [pathfinding] -> MoveToEntity call, priority: 27, pathsize: 1
+2023-12-15 18:15:18 [pathfinding] -> Reached destination: Position: 0, 12, Path size: 1.
+2023-12-15 18:15:18 [pathfinding] -> Set explored nodes took: 0 ms
+2023-12-15 18:15:18 [pathfinding] -> IsPositionReachable Computing A* path from P(242, 1765)->Pos(242, 1765)
+2023-12-15 18:15:18 [pathfinding] -> IsPositionReachable A* from P(242, 1765)->Pos(242, 1765) took: 0 ms, cost: 0.000000
+2023-12-15 18:15:18 [pathfinding] -> Computing A* path from P(242, 1765)->Pos(242, 1765)
+2023-12-15 18:15:18 [pathfinding] -> A* from P(242, 1765)->Pos(242, 1765) took: 0 ms, cost: 0.000000
+2023-12-15 18:15:18 [pathfinding] -> MoveToEntity call, priority: 27, pathsize: 1
+2023-12-15 18:15:18 [pathfinding] -> Reached destination: Position: 0, 12, Path size: 1.

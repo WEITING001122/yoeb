@@ -1,0 +1,1251 @@
+2023-12-15 18:15:10 [timer] -> Total runtime: 5 minutes
+2023-12-15 18:15:10 [timer] -> World update took: 15 ms
+2023-12-15 18:15:10 [timer] -> Game informations update took: 15 ms
+2023-12-15 18:15:10 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:10 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:10 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:10 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:10 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:10 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:10 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:10 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:10 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:10 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:10 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:10 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:10 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:10 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:10 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:10 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:10 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:10 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:10 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:10 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:10 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:10 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:10 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:11 [timer] -> State Processing took: 110 ms
+2023-12-15 18:15:11 [timer] -> Main AI Loop took: 125 ms
+
+
+2023-12-15 18:15:11 [timer] -> World update took: 15 ms
+2023-12-15 18:15:11 [timer] -> Game informations update took: 15 ms
+2023-12-15 18:15:11 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:11 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:11 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:11 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:11 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:11 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:11 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:11 [timer] -> State Processing took: 47 ms
+2023-12-15 18:15:11 [timer] -> Main AI Loop took: 109 ms
+
+
+2023-12-15 18:15:11 [timer] -> World update took: 16 ms
+2023-12-15 18:15:11 [timer] -> Game informations update took: 16 ms
+2023-12-15 18:15:11 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:11 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:11 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:11 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:11 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:11 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:11 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:11 [timer] -> State Processing took: 125 ms
+2023-12-15 18:15:11 [timer] -> Main AI Loop took: 141 ms
+
+
+2023-12-15 18:15:11 [timer] -> World update took: 0 ms
+2023-12-15 18:15:11 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:11 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:11 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:11 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:11 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:11 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:11 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:11 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:11 [timer] -> State Processing took: 62 ms
+2023-12-15 18:15:11 [timer] -> Main AI Loop took: 109 ms
+
+
+2023-12-15 18:15:11 [timer] -> World update took: 0 ms
+2023-12-15 18:15:11 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:11 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:11 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:11 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:11 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:11 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:11 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:11 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:11 [timer] -> State Processing took: 109 ms
+2023-12-15 18:15:11 [timer] -> Main AI Loop took: 109 ms
+
+
+2023-12-15 18:15:11 [timer] -> World update took: 0 ms
+2023-12-15 18:15:11 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:11 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:11 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:11 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:11 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:11 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:11 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:11 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:11 [timer] -> State Processing took: 63 ms
+2023-12-15 18:15:11 [timer] -> Main AI Loop took: 110 ms
+
+
+2023-12-15 18:15:11 [timer] -> World update took: 0 ms
+2023-12-15 18:15:11 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:11 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:11 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:11 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:11 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Fight Handler took: 15 ms
+2023-12-15 18:15:11 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:11 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:11 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:11 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:11 [timer] -> State Processing took: 94 ms
+2023-12-15 18:15:11 [timer] -> Main AI Loop took: 109 ms
+
+
+2023-12-15 18:15:11 [timer] -> World update took: 0 ms
+2023-12-15 18:15:11 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:11 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:11 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:11 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:11 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:11 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:11 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:11 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:11 [timer] -> State Processing took: 47 ms
+2023-12-15 18:15:11 [timer] -> Main AI Loop took: 109 ms
+
+
+2023-12-15 18:15:11 [timer] -> World update took: 16 ms
+2023-12-15 18:15:11 [timer] -> Game informations update took: 16 ms
+2023-12-15 18:15:11 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:11 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:11 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:11 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:11 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:11 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:11 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:11 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:11 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:11 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:12 [timer] -> State Processing took: 109 ms
+2023-12-15 18:15:12 [timer] -> Main AI Loop took: 125 ms
+
+
+2023-12-15 18:15:12 [timer] -> World update took: 16 ms
+2023-12-15 18:15:12 [timer] -> Game informations update took: 16 ms
+2023-12-15 18:15:12 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:12 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:12 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:12 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:12 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:12 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:12 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:12 [timer] -> State Processing took: 47 ms
+2023-12-15 18:15:12 [timer] -> Main AI Loop took: 110 ms
+
+
+2023-12-15 18:15:12 [timer] -> World update took: 15 ms
+2023-12-15 18:15:12 [timer] -> Game informations update took: 15 ms
+2023-12-15 18:15:12 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:12 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:12 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:12 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:12 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:12 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:12 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:12 [timer] -> State Processing took: 110 ms
+2023-12-15 18:15:12 [timer] -> Main AI Loop took: 125 ms
+
+
+2023-12-15 18:15:12 [timer] -> World update took: 0 ms
+2023-12-15 18:15:12 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:12 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:12 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:12 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:12 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:12 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:12 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:12 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:12 [timer] -> State Processing took: 62 ms
+2023-12-15 18:15:12 [timer] -> Main AI Loop took: 109 ms
+
+
+2023-12-15 18:15:12 [timer] -> World update took: 16 ms
+2023-12-15 18:15:12 [timer] -> Game informations update took: 16 ms
+2023-12-15 18:15:12 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:12 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:12 [timer] -> Flask Drinker took: 15 ms
+2023-12-15 18:15:12 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:12 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:12 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:12 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:12 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:12 [timer] -> State Processing took: 110 ms
+2023-12-15 18:15:12 [timer] -> Main AI Loop took: 141 ms
+
+
+2023-12-15 18:15:12 [timer] -> World update took: 15 ms
+2023-12-15 18:15:12 [timer] -> Game informations update took: 15 ms
+2023-12-15 18:15:12 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:12 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:12 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:12 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:12 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:12 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:12 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:12 [timer] -> State Processing took: 47 ms
+2023-12-15 18:15:12 [timer] -> Main AI Loop took: 109 ms
+
+
+2023-12-15 18:15:12 [timer] -> World update took: 16 ms
+2023-12-15 18:15:12 [timer] -> Game informations update took: 16 ms
+2023-12-15 18:15:12 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:12 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:12 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:12 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:12 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:12 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:12 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:12 [timer] -> State Processing took: 94 ms
+2023-12-15 18:15:12 [timer] -> Main AI Loop took: 110 ms
+
+
+2023-12-15 18:15:12 [timer] -> World update took: 15 ms
+2023-12-15 18:15:12 [timer] -> Game informations update took: 15 ms
+2023-12-15 18:15:12 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:12 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:12 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:12 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:12 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:12 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:12 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:12 [timer] -> State Processing took: 63 ms
+2023-12-15 18:15:12 [timer] -> Main AI Loop took: 109 ms
+
+
+2023-12-15 18:15:12 [timer] -> World update took: 0 ms
+2023-12-15 18:15:12 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:12 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:12 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:12 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:12 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:12 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:12 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:12 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:12 [timer] -> State Processing took: 109 ms
+2023-12-15 18:15:12 [timer] -> Main AI Loop took: 109 ms
+
+
+2023-12-15 18:15:12 [timer] -> World update took: 0 ms
+2023-12-15 18:15:12 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:12 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:12 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:12 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:12 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:12 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:12 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:12 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:12 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:12 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:12 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:12 [timer] -> State Processing took: 63 ms
+2023-12-15 18:15:13 [timer] -> Main AI Loop took: 110 ms
+
+
+2023-12-15 18:15:13 [timer] -> World update took: 0 ms
+2023-12-15 18:15:13 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:13 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:13 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:13 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:13 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:13 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:13 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:13 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:13 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:13 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:13 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:13 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:13 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:13 [timer] -> State Processing took: 109 ms
+2023-12-15 18:15:13 [timer] -> Main AI Loop took: 109 ms
+
+
+2023-12-15 18:15:13 [timer] -> World update took: 0 ms
+2023-12-15 18:15:13 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:13 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:13 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:13 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:13 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:13 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:13 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:13 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:13 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Fight Handler took: 16 ms
+2023-12-15 18:15:13 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:13 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:13 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:13 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:13 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:13 [timer] -> State Processing took: 47 ms
+2023-12-15 18:15:13 [timer] -> Main AI Loop took: 109 ms
+
+
+2023-12-15 18:15:13 [timer] -> World update took: 16 ms
+2023-12-15 18:15:13 [timer] -> Game informations update took: 16 ms
+2023-12-15 18:15:13 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:13 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:13 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:13 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:13 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:13 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:13 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:13 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Fight Handler took: 47 ms
+2023-12-15 18:15:13 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:13 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:13 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:13 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:13 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:13 [timer] -> State Processing took: 250 ms
+2023-12-15 18:15:13 [timer] -> Main AI Loop took: 313 ms
+
+
+2023-12-15 18:15:13 [timer] -> World update took: 0 ms
+2023-12-15 18:15:13 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:13 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:13 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:13 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:13 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Map Explorer took: 16 ms
+2023-12-15 18:15:13 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:13 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:13 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:13 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:13 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:13 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:13 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:13 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:13 [timer] -> State Processing took: 62 ms
+2023-12-15 18:15:13 [timer] -> Main AI Loop took: 109 ms
+
+
+2023-12-15 18:15:13 [timer] -> World update took: 0 ms
+2023-12-15 18:15:13 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:13 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:13 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:13 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:13 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:13 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:13 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:13 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:13 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:13 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:13 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:13 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:13 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:13 [timer] -> State Processing took: 219 ms
+2023-12-15 18:15:13 [timer] -> Main AI Loop took: 219 ms
+
+
+2023-12-15 18:15:13 [timer] -> World update took: 0 ms
+2023-12-15 18:15:13 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:13 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:13 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:13 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:13 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:13 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:13 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:13 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:13 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:13 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:13 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:13 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:13 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:13 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:14 [timer] -> State Processing took: 203 ms
+2023-12-15 18:15:14 [timer] -> Main AI Loop took: 219 ms
+
+
+2023-12-15 18:15:14 [timer] -> World update took: 15 ms
+2023-12-15 18:15:14 [timer] -> Game informations update took: 15 ms
+2023-12-15 18:15:14 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:14 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:14 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:14 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:14 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:14 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:14 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:14 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:14 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:14 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:14 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:14 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:14 [timer] -> State Processing took: 250 ms
+2023-12-15 18:15:14 [timer] -> Main AI Loop took: 265 ms
+
+
+2023-12-15 18:15:14 [timer] -> World update took: 0 ms
+2023-12-15 18:15:14 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:14 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:14 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:14 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:14 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:14 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:14 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:14 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:14 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:14 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:14 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:14 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:14 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:14 [timer] -> State Processing took: 110 ms
+2023-12-15 18:15:14 [timer] -> Main AI Loop took: 110 ms
+
+
+2023-12-15 18:15:14 [timer] -> World update took: 0 ms
+2023-12-15 18:15:14 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:14 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:14 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:14 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:14 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:14 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:14 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:14 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:14 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:14 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:14 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:14 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:14 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:14 [timer] -> State Processing took: 94 ms
+2023-12-15 18:15:14 [timer] -> Main AI Loop took: 109 ms
+
+
+2023-12-15 18:15:14 [timer] -> World update took: 16 ms
+2023-12-15 18:15:14 [timer] -> Game informations update took: 16 ms
+2023-12-15 18:15:14 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:14 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:14 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:14 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:14 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:14 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:14 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:14 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:14 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:14 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:14 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:14 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:14 [timer] -> State Processing took: 125 ms
+2023-12-15 18:15:14 [timer] -> Main AI Loop took: 141 ms
+
+
+2023-12-15 18:15:14 [timer] -> World update took: 15 ms
+2023-12-15 18:15:14 [timer] -> Game informations update took: 15 ms
+2023-12-15 18:15:14 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:14 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:14 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:14 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:14 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:14 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:14 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:14 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:14 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:14 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:14 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:14 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:14 [timer] -> State Processing took: 79 ms
+2023-12-15 18:15:14 [timer] -> Main AI Loop took: 109 ms
+
+
+2023-12-15 18:15:14 [timer] -> World update took: 16 ms
+2023-12-15 18:15:14 [timer] -> Game informations update took: 16 ms
+2023-12-15 18:15:14 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:14 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:14 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:14 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:14 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:14 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:14 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:14 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:14 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:14 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:14 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:14 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:14 [timer] -> State Processing took: 94 ms
+2023-12-15 18:15:14 [timer] -> Main AI Loop took: 110 ms
+
+
+2023-12-15 18:15:14 [timer] -> World update took: 0 ms
+2023-12-15 18:15:14 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:14 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:14 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:14 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:14 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:14 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:14 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:14 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:14 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:14 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:14 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:14 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:14 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:14 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:15 [timer] -> State Processing took: 93 ms
+2023-12-15 18:15:15 [timer] -> Main AI Loop took: 109 ms
+
+
+2023-12-15 18:15:15 [timer] -> World update took: 0 ms
+2023-12-15 18:15:15 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:15 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:15 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:15 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:15 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:15 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:15 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:15 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:15 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:15 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:15 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:15 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:15 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:15 [timer] -> State Processing took: 78 ms
+2023-12-15 18:15:15 [timer] -> Main AI Loop took: 109 ms
+
+
+2023-12-15 18:15:15 [timer] -> World update took: 0 ms
+2023-12-15 18:15:15 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:15 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:15 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:15 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:15 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:15 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:15 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:15 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:15 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Fight Handler took: 16 ms
+2023-12-15 18:15:15 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:15 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:15 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:15 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:15 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:15 [timer] -> State Processing took: 78 ms
+2023-12-15 18:15:15 [timer] -> Main AI Loop took: 110 ms
+
+
+2023-12-15 18:15:15 [timer] -> World update took: 15 ms
+2023-12-15 18:15:15 [timer] -> Game informations update took: 15 ms
+2023-12-15 18:15:15 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:15 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:15 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:15 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:15 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:15 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:15 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:15 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:15 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:15 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:15 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:15 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:15 [timer] -> State Processing took: 78 ms
+2023-12-15 18:15:15 [timer] -> Main AI Loop took: 109 ms
+
+
+2023-12-15 18:15:15 [timer] -> World update took: 16 ms
+2023-12-15 18:15:15 [timer] -> Game informations update took: 16 ms
+2023-12-15 18:15:15 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:15 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:15 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:15 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:15 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:15 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:15 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:15 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:15 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:15 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:15 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:15 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:15 [timer] -> State Processing took: 78 ms
+2023-12-15 18:15:15 [timer] -> Main AI Loop took: 109 ms
+
+
+2023-12-15 18:15:15 [timer] -> World update took: 16 ms
+2023-12-15 18:15:15 [timer] -> Game informations update took: 16 ms
+2023-12-15 18:15:15 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:15 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:15 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:15 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:15 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:15 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:15 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:15 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:15 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:15 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:15 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:15 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:15 [timer] -> State Processing took: 94 ms
+2023-12-15 18:15:15 [timer] -> Main AI Loop took: 110 ms
+
+
+2023-12-15 18:15:15 [timer] -> World update took: 0 ms
+2023-12-15 18:15:15 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:15 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:15 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:15 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:15 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:15 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:15 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:15 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:15 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:15 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:15 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:15 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:15 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:15 [timer] -> State Processing took: 219 ms
+2023-12-15 18:15:15 [timer] -> Main AI Loop took: 219 ms
+
+
+2023-12-15 18:15:15 [timer] -> World update took: 15 ms
+2023-12-15 18:15:15 [timer] -> Game informations update took: 15 ms
+2023-12-15 18:15:15 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:15 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:15 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:15 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:15 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:15 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:15 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:15 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:15 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:15 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:15 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:15 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:15 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:16 [timer] -> State Processing took: 203 ms
+2023-12-15 18:15:16 [timer] -> Main AI Loop took: 218 ms
+
+
+2023-12-15 18:15:16 [timer] -> World update took: 16 ms
+2023-12-15 18:15:16 [timer] -> Game informations update took: 16 ms
+2023-12-15 18:15:16 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:16 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:16 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:16 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:16 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:16 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:16 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:16 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:16 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:16 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:16 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:16 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:16 [timer] -> State Processing took: 250 ms
+2023-12-15 18:15:16 [timer] -> Main AI Loop took: 266 ms
+
+
+2023-12-15 18:15:16 [timer] -> World update took: 0 ms
+2023-12-15 18:15:16 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:16 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:16 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:16 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:16 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:16 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:16 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:16 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:16 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:16 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:16 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:16 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:16 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:16 [timer] -> State Processing took: 219 ms
+2023-12-15 18:15:16 [timer] -> Main AI Loop took: 219 ms
+
+
+2023-12-15 18:15:16 [timer] -> World update took: 0 ms
+2023-12-15 18:15:16 [timer] -> Game informations update took: 15 ms
+2023-12-15 18:15:16 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:16 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:16 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:16 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:16 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:16 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:16 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:16 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:16 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:16 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:16 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:16 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:16 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:18 [timer] -> State Processing took: 1735 ms
+2023-12-15 18:15:18 [timer] -> Main AI Loop took: 1750 ms
+
+
+2023-12-15 18:15:18 [timer] -> World update took: 15 ms
+2023-12-15 18:15:18 [timer] -> Game informations update took: 31 ms
+2023-12-15 18:15:18 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:18 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:18 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:18 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:18 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:18 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:18 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:18 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:18 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:18 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:18 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:18 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:18 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:18 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:18 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:18 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:18 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:18 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:18 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:18 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:18 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:18 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:18 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:18 [timer] -> State Processing took: 125 ms
+2023-12-15 18:15:18 [timer] -> Main AI Loop took: 156 ms
+
+
+2023-12-15 18:15:18 [timer] -> World update took: 0 ms
+2023-12-15 18:15:18 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:18 [timer] -> Unstucker took: 0 ms
+2023-12-15 18:15:18 [timer] -> Menu Handler took: 0 ms
+2023-12-15 18:15:18 [timer] -> Quest Handler took: 0 ms
+2023-12-15 18:15:18 [timer] -> Mission Handler took: 0 ms
+2023-12-15 18:15:18 [timer] -> Corrupted area handler took: 0 ms
+2023-12-15 18:15:18 [timer] -> Area Navigator took: 0 ms
+2023-12-15 18:15:18 [timer] -> Map item launcher took: 0 ms
+2023-12-15 18:15:18 [timer] -> Inventories Handler took: 0 ms
+2023-12-15 18:15:18 [timer] -> Map Explorer took: 0 ms
+2023-12-15 18:15:18 [timer] -> Flask Drinker took: 0 ms
+2023-12-15 18:15:18 [timer] -> Item Picker took: 0 ms
+2023-12-15 18:15:18 [timer] -> Shrine User took: 0 ms
+2023-12-15 18:15:18 [timer] -> Monolith Handler took: 0 ms
+2023-12-15 18:15:18 [timer] -> Breach Handler took: 0 ms
+2023-12-15 18:15:18 [timer] -> Abyssal Depths Handler took: 0 ms
+2023-12-15 18:15:18 [timer] -> Incursion Handler took: 0 ms
+2023-12-15 18:15:18 [timer] -> Gem Leveler took: 0 ms
+2023-12-15 18:15:18 [timer] -> Fight Handler took: 0 ms
+2023-12-15 18:15:18 [timer] -> Chest Opener took: 0 ms
+2023-12-15 18:15:18 [timer] -> Game Leaver took: 0 ms
+2023-12-15 18:15:18 [timer] -> Buff Caster took: 0 ms
+2023-12-15 18:15:18 [timer] -> Item Chancer took: 0 ms
+2023-12-15 18:15:18 [timer] -> Map Crafter took: 0 ms
+2023-12-15 18:15:19 [timer] -> State Processing took: 734 ms
+2023-12-15 18:15:19 [timer] -> Main AI Loop took: 734 ms
+
+
+2023-12-15 18:15:19 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:19 [timer] -> Game informations update took: 0 ms
+2023-12-15 18:15:20 [timer] -> Game informations update took: 0 ms
