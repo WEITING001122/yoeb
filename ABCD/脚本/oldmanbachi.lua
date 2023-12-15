@@ -169,7 +169,7 @@ SetAtuoChangeEquipData("暗影|野蛮人|决斗者|女巫|游侠|圣堂武僧","戒指|项链|腰带",
 
 SetTaskMiGongData("a5q2",nil,1)--在复活的梦魇这个任务时 做迷宫1
 SetTaskMiGongData("a9q1",nil,2)--在复活的梦魇这个任务时 做迷宫2
-SetTaskMiGongDataByLv(76,3)
+SetTaskMiGongDataByLv(90,3)
 
 SetNeedFlaskData(1,"生命药剂","止血之,FlaskRemovesBleeding1",60,"永恆生命藥劑","Metadata/Items/Flasks/FlaskLife12")
 SetNeedFlaskData(2,"生命药剂","沸騰的,FlaskFullInstantRecovery1",60,"不朽生命藥劑","Metadata/Items/Flasks/FlaskLife11")
