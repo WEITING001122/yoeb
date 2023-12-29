@@ -142,9 +142,9 @@
 [Type] == "Stacked Deck" # 	[StashItem]	 == "true"	//	//豐裕牌組	拾取且存倉
 
 
-//[Type]=="Niko's Memory" # [StashItem]  == "true" // 
-//[Type]=="Alva's Memory" # [StashItem]  == "true" // 
-//[Type]=="Kirac's Memory" # [StashItem]  == "true" // 
+[Type]=="Niko's Memory" # [StashItem]  == "true" // 
+[Type]=="Alva's Memory" # [StashItem]  == "true" // 
+[Type]=="Kirac's Memory" # [StashItem]  == "true" // 
 [Type]=="Einhar's Memory" # [StashItem]  == "true" // 
 [Type]=="Engraved Ultimatum" # [StashItem]  == "true" // 
 [Type]=="Mirrored Tablet" # [StashItem]  == "true" // 
