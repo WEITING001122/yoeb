@@ -22,7 +22,7 @@
 //弓箭手套裝//
 [Type] == "Praetor Crown" && [Rarity] == "Unique" # [UniqueName] == "Voll's Vision" && [StashItem] == "true"	//福爾的遠見
 [Type] == "Zodiac Leather" && [Rarity] == "Unique" # [UniqueName] == "Hyrri's Ire" && [StashItem] == "true"	//西里的戰衣星辰皮甲
-[Type] == "Titan Gauntlets" && [Rarity] == "Unique" # [UniqueName] == "Kaom's Spirit" && [StashItem] == "true"	//岡姆之魂
+//[Type] == "Titan Gauntlets" && [Rarity] == "Unique" # [UniqueName] == "Kaom's Spirit" && [StashItem] == "true"	//岡姆之魂
 [Type] == "Rawhide Boots" && [Rarity] == "Unique" # [UniqueName] == "Seven-League Step" && [StashItem] == "true"	//盟誓之跡
 [Type] == "Rustic Sash" && [Rarity] == "Unique" # [UniqueName] == "Prismweave" && [StashItem] == "true"	//幻彩菱織 腰帶
 [Type] == "Two-Stone Ring" && [Rarity] == "Unique" # [UniqueName] == "Berek's Respite Two-" && [StashItem] == "true"	//貝雷克的火與雷之樂
@@ -180,10 +180,12 @@
 //[Type] == "Orb of Horizons"# [StashItem] == "true"////地平石拾取且存倉
 [Type] == "Enhance Support" #[StashItem] == "true"////增幅輔助
 [Type] == "Rogue's Marker" #[StashItem] == "true"////盜賊之印
-[Type] =="Polaric Invitation" #[StashItem] == "true" ////極地之邀不撿不存倉
-[Type] =="Writhing Invitation" #[StashItem] == "true" ////纏繞之邀不撿不存倉
+//[Type] =="Polaric Invitation" #[StashItem] == "true" ////極地之邀不撿不存倉
+//[Type] =="Writhing Invitation" #[StashItem] == "true" ////纏繞之邀不撿不存倉
 [Type] =="Forbidden Tome" #[StashItem] == "true" ////禁忌之書
 [Type] =="Valdo's Puzzle Box" #[StashItem] == "true" ////瓦爾多彌合
+[Type] =="The Realm" #[StashItem] == "true" ////大平台
+
 
 
 //季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟//
