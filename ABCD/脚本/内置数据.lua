@@ -148,7 +148,7 @@ AddMoveSkillData("重盾衝鋒","shield_charge")
 
 --SetOpenMapMasterData(masterData)--设置异界开图时选择的事件
 --masterData 要选中的事件 字符串型 范围 1-5 1:魔物大师 2:穿越大师 3:魔暴硫酸 4:永生密教 5:札娜 制图大师 可填多个中间用|隔开 默认为"1|2|3|4|5" 多个的话会随机选择
-SetOpenMapMasterData("1|2|3|4|5")
+--SetOpenMapMasterData("1|2|3|4|5")
 
 SetAtuoChangeEquipData("暗影|野蛮人|决斗者|女巫|游侠|圣堂武僧","戒指|项链|腰带|鞋子|手套|衣服|头盔|盾}箭袋}爪}匕首|法杖|单手剑|细剑|单手斧|单手锤|符文匕首|短杖|战杖|弓|长杖|双手剑|双手斧|双手锤","local_display_socketed_gems_get_concentrated_area_level",-3000)--对带有集中效应技能的装备进行减分操作 1级减3千分
 SetAtuoChangeEquipData("暗影|野蛮人|决斗者|女巫|游侠|圣堂武僧","魔力药剂","local_flask_mana_recovery_occurs_instantly_at_end_of_flask_effect",-3000)--对包含 CD结束时才回复蓝 的药瓶进行减分操作

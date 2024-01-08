@@ -18,8 +18,8 @@
 g_needMinimizeGame=nil	--最小化遊戲窗口 true为最小化 false或nil为不最小化
 g_imBoss=false					--如果是仓库号要为true 挂机号为false
 g_attackDis=150					--攻击距离
-g_yiJieTimeOut=15*60			--异界地图内的超时时间 单位为秒 如果未设置就会用g_timeOut *是乘号 这里为15乘以60=15分钟
-g_timeOut=25*60					--在一个地图呆的时间超过设置的 就重新开图重新 单位为秒
+g_yiJieTimeOut=10*60			--异界地图内的超时时间 单位为秒 如果未设置就会用g_timeOut *是乘号 这里为15乘以60=15分钟
+g_timeOut=15*60					--在一个地图呆的时间超过设置的 就重新开图重新 单位为秒
 g_addTianFu=true				--自动按设定好的配置加天赋 true为加 nil或false为不加
 g_shengJiBaoShi=true			--自动升级宝石 true为升级 nil或false为不升级
 g_sellSkillGem=true				--自动卖超过40品质的技能宝石
@@ -92,7 +92,7 @@ SetTaskMiGongData("a10q1",nil,1)--在复活的梦魇这个任务时 做迷宫1
 SetTaskMiGongData("a10q1",nil,2)--在复活的梦魇这个任务时 做迷宫2
 SetTaskMiGongDataByLv(82,3)
 ----------------------SetZhongShenData(className1,className2)--眾神殿 className1=高阶数据类名 字符串型 className2=低阶数据类名 字符串型 
-SetZhongShenData("Lunaris","Gruthkul")--设置月影女神之魂与绝望之母 格鲁丝克之魂
+--SetZhongShenData("Lunaris","Gruthkul")--设置月影女神之魂与绝望之母 格鲁丝克之魂
 
 --換C設定
 SetSaveIndex("项链|戒指|爪|匕首|法杖|单手剑|单手斧|单手锤|符文匕首|短杖|腰带|手套|鞋子|头盔|珠宝","3")--搬磚換C
@@ -989,6 +989,8 @@ g_mapUseOrangeMap=false		--不打傳奇圖
 --color 字符串型 颜色 0白1蓝2黄3橙 中间用|隔开
 --SetYouXianUseMapData("危城廣場","Metadata/Items/Maps/MapWorldsCitySquare","0|1|2")
 --SetYouXianUseMapData("緋紅神殿","Metadata/Items/Maps/MapWorldsCrimsonTemple","0|1|2")
+SetYouXianUseMapData("奪魂之殿","Metadata/Items/Maps/MapWorldsTemple","0|1|2")
+
 SetYouXianUseMapData("崩壞長廊","Metadata/Items/Maps/MapWorldsArcade","0|1|2")
 SetYouXianUseMapData("危城巷弄","Metadata/Items/Maps/MapWorldsAlleyways","0|1|2")
 SetYouXianUseMapData("平顶荒漠","Metadata/Items/Maps/MapWorldsMesa","0|1|2")
@@ -1098,7 +1100,7 @@ SetSellGoodsData("驚懼樹叢","Metadata/Items/Maps/MapWorldsThicket",3,"0|1|2")
 SetSellGoodsData("儲物倉","Metadata/Items/Maps/MapWorldsSilo",3,"0|1|2")
 SetSellGoodsData("奇術秘殿","Metadata/Items/Maps/MapWorldsShrine",3,"0|1|2")
 SetSellGoodsData("奇術之庭","Metadata/Items/Maps/MapWorldsCourtyard",3,"0|1|2")
-SetSellGoodsData("奪魂之殿","Metadata/Items/Maps/MapWorldsTemple",3,"0|1|2")
+--SetSellGoodsData("奪魂之殿","Metadata/Items/Maps/MapWorldsTemple",3,"0|1|2")
 SetSellGoodsData("實驗居所","Metadata/Items/Maps/MapWorldsLaboratory",3,"0|1|2")
 SetSellGoodsData("怒浪之港","Metadata/Items/Maps/MapWorldsPier",3,"0|1|2")
 SetSellGoodsData("瘴氣泥沼","Metadata/Items/Maps/MapWorldsBog",3,"0|1|2")
@@ -1400,3 +1402,16 @@ SetHeistData("RewardChestCurrency|RewardCurrency|RewardChestTrinkets|RewardChest
 "崇高石,Metadata/Items/Currency/CurrencyAddModToRare,1|卡兰德的魔镜,Metadata/Items/Currency/CurrencyDuplicate,1","崇高石,Metadata/Items/Currency/CurrencyAddModToRare|卡兰德的魔镜,Metadata/Items/Currency/CurrencyDuplicate")
 
 
+--SetMapCfg(name,className,px,noUse,noTf)--添加地图设置
+--name 字符串型 地图物品名字
+--className 字符串型 地图物品类名
+--px 逻辑型 是否使用平行石  true为使用 false或nil为不使用
+--noUse 逻辑型 是否不打这个图 true为不打 false或nil为打
+--noTf 逻辑型 拓地图天赋时是否不打这个图 true为不打 false或nil为打
+
+ 
+
+--要平行，不刷 且不拓天赋的地图
+
+SetMapCfg(nil,"Metadata/Items/Maps/MapWorldsVault",true,true,true)--机关宝库
+SetMapCfg(nil,"Metadata/Items/Maps/MapWorldsLaboratory",true,true,true)--實驗居所
