@@ -256,19 +256,19 @@ SetNeedFlaskData(5,"魔力药剂","耐久的,FlaskEffectNotRemovedOnFullMana1",50,"永恆
 --SetGaoJiHuanZhuangData("圣堂武僧","金光戒指","Metadata/Items/Rings/Ring4","貪慾之記","Andvarius",nil,nil,nil,7,nil,1)
 --SetGaoJiHuanZhuangData("圣堂武僧","金光戒指","Metadata/Items/Rings/Ring4","高尚之人","The Highwayman",nil,nil,nil,8,nil,1)
 
-SetGaoJiHuanZhuangData("游侠","简易之袍","Metadata/Items/Armours/BodyArmours/BodyInt1","无尽之衣","Tabula Rasa")--衣服
-SetGaoJiHuanZhuangData("游侠","短弓","Metadata/Items/Weapons/TwoHandWeapons/Bows/Bow2","驟雨之弦","Quill Rain")--武器
-SetGaoJiHuanZhuangData("游侠","三相戒指","Metadata/Items/Rings/Ring8","竊罪","Thief's Torment")
-SetGaoJiHuanZhuangData("游侠","皮帽",nil,"金縷帽","Thief's Torment")
-SetGaoJiHuanZhuangData("游侠","絲綢手套",nil,"安賽娜絲的安撫之語","Asenath's Gentle Touch")
-SetGaoJiHuanZhuangData("游侠","生皮短靴",nil,"盟誓之跡","Seven-League Step")
+--SetGaoJiHuanZhuangData("游侠","简易之袍","Metadata/Items/Armours/BodyArmours/BodyInt1","无尽之衣","Tabula Rasa")--衣服
+--SetGaoJiHuanZhuangData("游侠","短弓","Metadata/Items/Weapons/TwoHandWeapons/Bows/Bow2","驟雨之弦","Quill Rain")--武器
+--SetGaoJiHuanZhuangData("游侠","三相戒指","Metadata/Items/Rings/Ring8","竊罪","Thief's Torment")
+--SetGaoJiHuanZhuangData("游侠","皮帽",nil,"金縷帽","Thief's Torment")
+--SetGaoJiHuanZhuangData("游侠","絲綢手套",nil,"安賽娜絲的安撫之語","Asenath's Gentle Touch")
+--SetGaoJiHuanZhuangData("游侠","生皮短靴",nil,"盟誓之跡","Seven-League Step")
 --SetGaoJiHuanZhuangData("游侠","巨人護手",nil,"岡姆之魂","Kaom's Spirit")
-SetGaoJiHuanZhuangData("游侠","領主戰冠",nil,"福爾的遠見","Voll's Vision")
-SetGaoJiHuanZhuangData("游侠","素布腰帶",nil,"幻彩菱織","Prismweave")
-SetGaoJiHuanZhuangData("游侠","三相戒指",nil,"元素之章","The Taming")
-SetGaoJiHuanZhuangData("游侠","始祖箭袋",nil,"優雅迷鏡","The Poised Prism")
-SetGaoJiHuanZhuangData("游侠","翠玉護身符",nil,"西里的真理","Hyrri's Truth")
-SetGaoJiHuanZhuangData("游侠","星辰皮甲",nil,"西里的戰衣","Hyrri's Ire")
+--SetGaoJiHuanZhuangData("游侠","領主戰冠",nil,"福爾的遠見","Voll's Vision")
+--SetGaoJiHuanZhuangData("游侠","素布腰帶",nil,"幻彩菱織","Prismweave")
+--SetGaoJiHuanZhuangData("游侠","三相戒指",nil,"元素之章","The Taming")
+--SetGaoJiHuanZhuangData("游侠","始祖箭袋",nil,"優雅迷鏡","The Poised Prism")
+--SetGaoJiHuanZhuangData("游侠","翠玉護身符",nil,"西里的真理","Hyrri's Truth")
+--SetGaoJiHuanZhuangData("游侠","星辰皮甲",nil,"西里的戰衣","Hyrri's Ire")
 --SetGaoJiHuanZhuangData("游侠","裂臟鉤","Metadata/Items/Weapons/OneHandWeapons/Claws/Claw12","超越壁壘","Advancing Fortress",3,15,nil,3)
 --SetGaoJiHuanZhuangData("游侠","饰布腰带","Metadata/Items/Belts/Belt5","普兰德斯之印","Perandus Blazon",nil,nil,nil,nil,nil,1)
 --SetGaoJiHuanZhuangData("游侠","強化巨盔","Metadata/Items/Armours/Helmets/HelmetStrInt7","吉爾菲的榮光","Geofri's Crest",4,28,nil,nil,nil,1)

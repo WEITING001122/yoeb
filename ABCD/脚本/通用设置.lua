@@ -969,7 +969,7 @@ SetNoUseMapShuXing("map_players_no_regeneration_including_es")--无法回复
 
 SetNotMapGoMap("2_9_1",1)	--沒有圖就刷水道，我設定一百次，要設定幾次看個人
 
-g_yiJieLv=69				--幾等才刷圖，我都設定75等
+g_yiJieLv=68				--幾等才刷圖，我都設定75等
 g_checkSellMapCnt=80		--地圖超過幾張開始賣圖
 g_destroyNoUseMap=true		--銷毀不使用的地圖，例如元反物反
 g_mapUseFuHaoLv=nil		--大于等于多少级对蓝图使用富豪石 nil为永远不使用
