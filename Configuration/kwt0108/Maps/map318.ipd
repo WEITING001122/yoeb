@@ -15,16 +15,16 @@
 	
 //[MapTier]>= "1" && [MapTier] <= "16" && [Rarity] == "Rare" # [IgnoreMap]== "true" // 金圖全部不打
 
-//[Type] == "Coves Map" #[RunMap] == "true"
-//[Type] == "Toxic Sewer Map" #[RunMap] == "true"
-//[Type]=="Channel Map" # [RunMap]=="true"
-//[Type]=="Sulphur Vents Map" # [RunMap]=="true"
-//[Type] == "Canyon Map" # [RunMap] == "true"
-//[Type] == "Arcade Map" # [RunMap] == "true"
-//[Type]=="Cemetery Map" # [RunMap] == "true"
-//[Type]=="Leyline Map" # [RunMap] == "true"
-//[Type]=="Arid Lake Map" # [RunMap]=="true"
-//[Type]=="Jungle Valley Map" # [RunMap]=="true"
+[Type] == "Coves Map" #[RunMap] == "true"
+[Type] == "Toxic Sewer Map" #[RunMap] == "true"
+[Type]=="Channel Map" # [RunMap]=="true"
+[Type]=="Sulphur Vents Map" # [RunMap]=="true"
+[Type] == "Canyon Map" # [RunMap] == "true"
+[Type] == "Arcade Map" # [RunMap] == "true"
+[Type]=="Cemetery Map" # [RunMap] == "true"
+[Type]=="Leyline Map" # [RunMap] == "true"
+[Type]=="Arid Lake Map" # [RunMap]=="true"
+[Type]=="Jungle Valley Map" # [RunMap]=="true"
 [Type]=="Bog Map" # [RunMap]=="true"
 [Type]=="City Square Map" # [RunMap]=="true"
 
