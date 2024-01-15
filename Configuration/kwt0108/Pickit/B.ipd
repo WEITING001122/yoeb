@@ -198,7 +198,7 @@
 //[Type] == "Orb of Annulment"# [StashItem] == "true"////無效 拾取且存倉
 //[Type] == "Gemcutter's Prism"# [StashItem] == "true"////GCP 拾取且存倉
 //[Type] == "Awakened Sextant" # [StashItem] == "true"////六分
-[Type] =="Forbidden Tome" #[StashItem] == "true" ////禁忌之書
+//[Type] =="Forbidden Tome" #[StashItem] == "true" ////禁忌之書
 [Type] =="Valdo's Puzzle Box" #[StashItem] == "true" ////瓦爾多彌合
 [Type] =="The Realm" #[StashItem] == "true" ////大平台
 [Type] =="Hinekora's Lock" #[StashItem] == "true" ////髮絲
