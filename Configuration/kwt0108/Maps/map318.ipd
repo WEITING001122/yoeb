@@ -30,7 +30,7 @@
 
 
 
-[Type] == "City Square Map" # [ExitAfterBossKill] == "true"
+
 [Type] == "Toxic Sewer Map" # [ExitAfterBossKill] == "true"
 [Type]=="Crimson Temple Map" # [ExitAfterBossKill] == "true"
 [Type]=="Sulphur Vents Map" # [ExitAfterBossKill] == "true"
@@ -43,6 +43,7 @@
 [Type]=="Channel Map" # [ExitAfterBossKill] == "true"
 [Type]=="Arid Lake Map" # [ExitAfterBossKill] == "true"
 [Type]=="Jungle Valley Map" # [ExitAfterBossKill] == "true"
+[Type] == "City Square Map" # [ExitAfterBossKill] == "true"
 [Type]=="Bog Map" # [ExitAfterBossKill] == "true"
 
 																		
