@@ -43,9 +43,8 @@
 [Type]=="Channel Map" # [ExitAfterBossKill] == "true"
 [Type]=="Arid Lake Map" # [ExitAfterBossKill] == "true"
 [Type]=="Jungle Valley Map" # [ExitAfterBossKill] == "true"
-[Type] == "City Square Map" # [ExitAfterBossKill] == "true"
 [Type]=="Bog Map" # [ExitAfterBossKill] == "true"
-
+[Type] == "City Square Map" # [ExitAfterBossKill] == "true"
 																		
 																									
 	//3.17 忽略圖與忽略傳奇圖																								
