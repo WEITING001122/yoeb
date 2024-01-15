@@ -182,7 +182,7 @@
 [Type] == "Rogue's Marker" #[StashItem] == "true"////盜賊之印
 //[Type] =="Polaric Invitation" #[StashItem] == "true" ////極地之邀不撿不存倉
 //[Type] =="Writhing Invitation" #[StashItem] == "true" ////纏繞之邀不撿不存倉
-[Type] =="Forbidden Tome" #[StashItem] == "true" ////禁忌之書
+//[Type] =="Forbidden Tome" #[StashItem] == "true" ////禁忌之書
 [Type] =="Valdo's Puzzle Box" #[StashItem] == "true" ////瓦爾多彌合
 [Type] =="The Realm" #[StashItem] == "true" ////大平台
 [Type] =="Hinekora's Lock" #[StashItem] == "true" ////髮絲
