@@ -1,3 +1,9 @@
+v0.94d
+Fixed offsets for game version 3.23.1.
+
+v0.94c
+Added feature that cleans viridian wildwood from affliction league.
+
 v0.94b
 Fixed gem leveling.
 
@@ -8,10 +14,10 @@ v0.93e
 Fixed offsets for game version 3.22.2b.
 
 v0.93d
-Fixed offsets for game version 3.22.2. 
+Fixed offsets for game version 3.22.2.
 
 v0.93c
-Fixed offsets for game version 3.22.1. 
+Fixed offsets for game version 3.22.1.
 
 v0.93b
 Fixed mirrored item detection. 
