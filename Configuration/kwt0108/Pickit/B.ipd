@@ -211,8 +211,9 @@
 [Type] =="Blueprint: Tunnels" #[StashItem] == "true" ////藍圖
 [Type] =="Blueprint: Records Office" #[StashItem] == "true" ////藍圖
 [Type] =="Blueprint: Mansion" #[StashItem] == "true" ////藍圖
-
-
+[Type] =="Blueprint" #[StashItem] == "true" ////藍圖1/21測試
+[Type] =="Replica Dragonfang's Flight" #[StashItem] == "true" ////贗品龍牙1/21測試
+[Type] == "Onyx Amulet" && [Rarity] == "Unique" # [UniqueName] == "Replica Dragonfang's Flight" && [StashItem] == "true"	//贗品龍牙1/21 兩種語法測試
 
 
 //[Type] == "Timeless Eternal Empire Splinter" # [StashItem] == "true"////永恆不朽帝國裂片不撿不存倉
