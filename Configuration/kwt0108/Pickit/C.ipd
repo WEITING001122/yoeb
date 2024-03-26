@@ -21,7 +21,7 @@
 
 //弓箭手套裝//
 //[Type] == "Praetor Crown" && [Rarity] == "Unique" # [UniqueName] == "Voll's Vision" && [StashItem] == "true"	//福爾的遠見
-[Type] == "Zodiac Leather" && [Rarity] == "Unique" # [UniqueName] == "Hyrri's Ire" && [StashItem] == "true"	//西里的戰衣星辰皮甲
+//[Type] == "Zodiac Leather" && [Rarity] == "Unique" # [UniqueName] == "Hyrri's Ire" && [StashItem] == "true"	//西里的戰衣星辰皮甲
 //[Type] == "Titan Gauntlets" && [Rarity] == "Unique" # [UniqueName] == "Kaom's Spirit" && [StashItem] == "true"	//岡姆之魂
 //[Type] == "Rawhide Boots" && [Rarity] == "Unique" # [UniqueName] == "Seven-League Step" && [StashItem] == "true"	//盟誓之跡
 //[Type] == "Rustic Sash" && [Rarity] == "Unique" # [UniqueName] == "Prismweave" && [StashItem] == "true"	//幻彩菱織 腰帶
@@ -46,7 +46,7 @@
 //[Type] == "Amethyst Flask"&& 		[ItemLevel] >= "82" && [ItemLevel] <="100" # [StashItem] == "true" //紫晶
 //[Type] == "Diamond Flask"&& 		[ItemLevel] >= "84" && [ItemLevel] <="100" # [StashItem] == "true" //寶鑽
 //[Type] == "Jade Flask"&& 		[ItemLevel] >= "84" && [ItemLevel] <="100" # [StashItem] == "true" //+1500閃避
-//[Type] == "Quicksilver Flask"&& 	[ItemLevel] >= "85" && [ItemLevel] <="100" # [StashItem] == "true" //跑水
+//[Type] == "Quicksilver Flask"&& 	[ItemLevel] >= "84" && [ItemLevel] <="100" # [StashItem] == "true" //跑水
 
 
 
@@ -63,10 +63,10 @@
 
 [Type] == "Bog Map" && [MapTier] >= "14"  && [Rarity] == "Normal"  #[StashItem] == "true" // //普通地圖普通地圖撿取，普通地圖存倉
 [Type] == "Bog Map" && [MapTier] >= "14"  && [Rarity] == "Magic"  #[StashItem] == "true" // //藍地圖藍地圖撿取，藍地圖存倉
-//[Type] == "Bog Map" && [MapTier] >= "14"  && [Rarity] == "Rare"  #[StashItem] == "true" // //黃地圖黃地圖不撿，黃地圖售出
+[Type] == "Bog Map" && [MapTier] >= "14"  && [Rarity] == "Rare"  #[StashItem] == "true" // //黃地圖黃地圖不撿，黃地圖售出
 
 [Type] == "City Square Map" && [MapTier] >= "14"  && [Rarity] == "Normal"  #[StashItem] == "true" // //普通地圖普通地圖撿取，普通地圖存倉
-//[Type] == "City Square Map" && [MapTier] >= "14"  && [Rarity] == "Magic"  #[StashItem] == "true" // //藍地圖藍地圖撿取，藍地圖存倉
+[Type] == "City Square Map" && [MapTier] >= "14"  && [Rarity] == "Magic"  #[StashItem] == "true" // //藍地圖藍地圖撿取，藍地圖存倉
 //[Type] == "City Square Map" && [MapTier] >= "14"  && [Rarity] == "Rare"  #[StashItem] == "true" // //黃地圖黃地圖不撿，黃地圖售出
 
 
@@ -131,20 +131,20 @@
 [Type] =="Maven's Invitation: The Formed" #	[StashItem]	 == "true" 		//釋界之邀：塑型	拾取且存倉
 [Type] =="Maven's Invitation: The Twisted" #	[StashItem]	 == "true" 		//釋界之邀：扭曲	拾取且存倉
 
-//[Type] == "Last Hope" # 	[StashItem]	 == "true" // 1.0 C	//	最後希望(凡人的希望)	拾取且存倉
+[Type] == "Last Hope" # 	[StashItem]	 == "true" // 1.0 C	//	最後希望(凡人的希望)	拾取且存倉
 
-//[Type] == "Sambodhi's Vow" # 	[StashItem]	 == "true" // 1.0 C	//	菩提誓約(凡人碎片)	拾取且存倉
+[Type] == "Sambodhi's Vow" # 	[StashItem]	 == "true" // 1.0 C	//	菩提誓約(凡人碎片)	拾取且存倉
 
-//[Type]=="Gemcutter's Mercy" #	[StashItem]	 == "true"	//	//寶石切割者的憐憫(卓越寶石)	拾取且存倉
+[Type]=="Gemcutter's Mercy" #	[StashItem]	 == "true"	//	//寶石切割者的憐憫(卓越寶石)	拾取且存倉
 
-//[Type] == "Awakened Sextant" # 	[StashItem]	 == "true"	//	//製圖六分儀．覺醒	拾取且存倉
+[Type] == "Awakened Sextant" # 	[StashItem]	 == "true"	//	//製圖六分儀．覺醒	拾取且存倉
 
 [Type] == "Stacked Deck" # 	[StashItem]	 == "true"	//	//豐裕牌組	拾取且存倉
 
 
-[Type]=="Niko's Memory" # [StashItem]  == "true" // 
-[Type]=="Alva's Memory" # [StashItem]  == "true" // 
-[Type]=="Kirac's Memory" # [StashItem]  == "true" // 
+//[Type]=="Niko's Memory" # [StashItem]  == "true" // 
+//[Type]=="Alva's Memory" # [StashItem]  == "true" // 
+//[Type]=="Kirac's Memory" # [StashItem]  == "true" // 
 [Type]=="Einhar's Memory" # [StashItem]  == "true" // 
 [Type]=="Engraved Ultimatum" # [StashItem]  == "true" // 
 [Type]=="Mirrored Tablet" # [StashItem]  == "true" // 
@@ -170,34 +170,19 @@
 
 //季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟//
 
-//[Type] == "Orb of Alteration" # [StashItem] == "true"////改造石拾取且存倉
-//[Type] == "Orb of Regret"# [StashItem] == "true"////後悔石拾取且存倉//
-//[Type] == "Orb of Unmaking"# [StashItem] == "true"////撤銷石拾取且存倉
-//[Type] == "Enkindling Orb"# [StashItem] == "true"////點燃石拾取且存倉
-//[Type] == "Instilling Orb" # [StashItem] == "true" //	//滴注石
-//[Type] == "Orb of Scouring"# [StashItem] == "true"////重鑄 拾取且存倉
+[Type] == "Orb of Alteration" # [StashItem] == "true"////改造石拾取且存倉
+[Type] == "Orb of Augmentation" # [StashItem] == "true"////改造石拾取且存倉
+[Type] == "Orb of Regret"# [StashItem] == "true"////後悔石拾取且存倉//
+[Type] == "Orb of Unmaking"# [StashItem] == "true"////撤銷石拾取且存倉
+[Type] == "Enkindling Orb"# [StashItem] == "true"////點燃石拾取且存倉
+[Type] == "Instilling Orb" # [StashItem] == "true" //	//滴注石
+[Type] == "Orb of Scouring"# [StashItem] == "true"////重鑄 拾取且存倉
 //[Type] == "Regal Orb" # [StashItem] == "true"////富豪
 //[Type] == "Orb of Horizons"# [StashItem] == "true"////地平石拾取且存倉
-//[Type] == "Enhance Support" #[StashItem] == "true"////增幅輔助
+[Type] == "Enhance Support" #[StashItem] == "true"////增幅輔助
 [Type] == "Rogue's Marker" #[StashItem] == "true"////盜賊之印
 //[Type] =="Polaric Invitation" #[StashItem] == "true" ////極地之邀不撿不存倉
 //[Type] =="Writhing Invitation" #[StashItem] == "true" ////纏繞之邀不撿不存倉
-
-
-//季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟//
-
-[Type] == "Chaos Orb" # [StashItem] == "true"////混沌石拾取且存倉
-[Type] == "Divine Orb" # [StashItem] == "true"////神聖石拾取且存倉
-[Type] == "Exalted Orb" # [StashItem] == "true"////崇高石拾取且存倉
-[Type] == "Mirror of Kalandra" # [StashItem] == "true"////卡蘭德的魔鏡拾取且存倉
-[Type] == "Ancient Orb"# [StashItem] == "true"////古變石拾取且存倉
-[Type] == "Mirror Shard"# [StashItem] == "true"////魔鏡碎片拾取且存倉
-[Type] == "Ancient Shard"# [StashItem] == "true"////古變石碎片拾取且存倉
-[Type] == "Exalted Shard"# [StashItem] == "true"////崇高石碎片拾取且存倉
-
-//[Type] == "Orb of Annulment"# [StashItem] == "true"////無效 拾取且存倉
-//[Type] == "Gemcutter's Prism"# [StashItem] == "true"////GCP 拾取且存倉
-//[Type] == "Awakened Sextant" # [StashItem] == "true"////六分
 //[Type] =="Forbidden Tome" #[StashItem] == "true" ////禁忌之書
 [Type] =="Valdo's Puzzle Box" #[StashItem] == "true" ////瓦爾多彌合
 [Type] =="The Realm" #[StashItem] == "true" ////大平台
@@ -214,6 +199,25 @@
 [Type] =="Blueprint" #[StashItem] == "true" ////藍圖1/21測試
 [Type] =="Replica Dragonfang's Flight" #[StashItem] == "true" ////贗品龍牙1/21測試
 [Type] == "Onyx Amulet" && [Rarity] == "Unique" # [UniqueName] == "Replica Dragonfang's Flight" && [StashItem] == "true"	//贗品龍牙1/21 兩種語法測試
+
+
+
+
+//季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟////季初開啟//
+
+[Type] == "Chaos Orb" # [StashItem] == "true"////混沌石拾取且存倉
+[Type] == "Divine Orb" # [StashItem] == "true"////神聖石拾取且存倉
+[Type] == "Exalted Orb" # [StashItem] == "true"////崇高石拾取且存倉
+[Type] == "Mirror of Kalandra" # [StashItem] == "true"////卡蘭德的魔鏡拾取且存倉
+[Type] == "Ancient Orb"# [StashItem] == "true"////古變石拾取且存倉
+[Type] == "Mirror Shard"# [StashItem] == "true"////魔鏡碎片拾取且存倉
+[Type] == "Ancient Shard"# [StashItem] == "true"////古變石碎片拾取且存倉
+[Type] == "Exalted Shard"# [StashItem] == "true"////崇高石碎片拾取且存倉
+
+[Type] == "Orb of Annulment"# [StashItem] == "true"////無效 拾取且存倉
+[Type] == "Gemcutter's Prism"# [StashItem] == "true"////GCP 拾取且存倉
+[Type] == "Awakened Sextant" # [StashItem] == "true"////六分
+
 
 
 //[Type] == "Timeless Eternal Empire Splinter" # [StashItem] == "true"////永恆不朽帝國裂片不撿不存倉
