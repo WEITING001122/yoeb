@@ -9,7 +9,7 @@ end
 
 --SetTaskShengJiData(taskClassName,taskIndex,shengjiMapClassName,needLv)--设置跑图时升级 taskClassName=任务类名 taskIndex=任务索引 nil为忽略，只匹配任务类名 shengjiMapClassName=要刷的地图类名 needLv=升级到多少级为止
 SetTaskShengJiData("a5q7",nil,"1_5_5",43)--做 到奇塔弗的受难 的时候刷纯净圣地到50级再进行下一任务
-SetTaskShengJiData("a9q3",nil,"2_9_1",65)--滲血水道
+SetTaskShengJiData("a9q3",nil,"2_9_1",90)--滲血水道
 
 
 --指定职业  野蛮人、女巫、贵族、游侠、决斗者、暗影、圣堂武僧、
